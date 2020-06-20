@@ -2,7 +2,7 @@
 
 language: R
 r:
-  3.6
+  - 3.6
 cache:
   directories:
   - $HOME/.local/share/renv
